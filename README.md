@@ -8,7 +8,7 @@ This is  a Community Service Tracker Project which registers a new volunteer, se
 ## Features
 Files: To generate reports on volunteer hours and service impact.
 Classes: Classes were created for the Volunteer, task and event, each with specific attributes and methods to efficiently handle their respective functionalities.
-Exception Handling : To manage errors related to volunteer reports and event schedules, ensuring robustness and preventing crashes.
+Exception Handling : To manage errors related to volunteer reports and event schedules, ensuring robustness.
 ## Steps to open the program
 1. Open Visual Studio 2022
 -  Launch Visual Studio 2022 on your computer
